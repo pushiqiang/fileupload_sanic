@@ -1,0 +1,11 @@
+# server
+sanic==0.8.3
+
+# tools
+aiofiles==0.4.0
+click==6.7
+
+# 开发工具
+marshmallow==2.15.5
+ipython
+yapf
